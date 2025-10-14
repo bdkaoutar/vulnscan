@@ -1,0 +1,1 @@
+python -m vulnscan.cli --target 192.168.1.1
