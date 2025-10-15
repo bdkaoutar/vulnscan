@@ -1,0 +1,5 @@
+
+{
+  "nginx": {"osv_package": {"type": "deb", "name": "nginx"}, "cpe": "cpe:2.3:a:nginx:nginx"},
+  "openssh": {"osv_package": {"type": "deb", "name": "openssh-server"}, "cpe": "cpe:2.3:a:openbsd:openssh"}
+}
